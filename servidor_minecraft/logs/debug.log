@@ -1825,3 +1825,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [01Feb2025 04:44:30.164] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Danben285 lost connection: Disconnected
 [01Feb2025 04:44:30.165] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Danben285 left the game
 [01Feb2025 04:44:30.166] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 47fab1b2-80b6-3887-ba44-a750ef02554d was unloaded
+[01Feb2025 04:47:10.757] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[01Feb2025 04:47:10.769] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[01Feb2025 04:52:10.256] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[01Feb2025 04:52:10.266] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
